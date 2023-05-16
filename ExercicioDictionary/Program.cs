@@ -7,8 +7,7 @@
             Dictionary<string, int> votos = new Dictionary<string, int>();
 
             Console.Write("Enter file full path: ");
-            string path = Console.ReadLine();
-            int sum = 0;
+            string path = Console.ReadLine();           
             string name;
 
 
